@@ -7,7 +7,7 @@ router.get('/', function (ctx, next) {
 });
 
 router.get('/bar', function (ctx, next) {
-  ctx.body = 'this is a users/bar response';
+  ctx.body = 'this is a users/bar response 9999';
 });
 
 module.exports = router;

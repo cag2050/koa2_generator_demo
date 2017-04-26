@@ -23,6 +23,7 @@
   },
   "devDependencies": {
     "nodemon": "^1.8.1",
+    "pm2": "^2.4.5",
     "runkoa": "^1.5.9"
   }
 }
