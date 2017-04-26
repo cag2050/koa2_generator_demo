@@ -11,7 +11,7 @@ router.get('/', async function (ctx, next) {
 
 router.get('/foo', async function (ctx, next) {
   await ctx.render('index', {
-    title: 'koa2 foo'
+    title: 'koa2 foo 666666'
   });
 });
 
